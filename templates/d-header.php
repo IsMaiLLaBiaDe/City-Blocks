@@ -1,0 +1,1 @@
+<center><?=date("Y-m-d");?></center>
